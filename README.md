@@ -1,3 +1,4 @@
+C51ASM V1.2 assembler used for assembling the Source Assembly File.
 ## CH552T TOP
 <img width="2883" height="1015" alt="simpleCH552T_14012024T" src="https://github.com/user-attachments/assets/0606f393-09e7-48b9-ab9e-7a9910720948" />
 
