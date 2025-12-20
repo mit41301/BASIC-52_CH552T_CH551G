@@ -4,3 +4,5 @@ C51ASM V1.2 assembler used for assembling the Source Assembly File.
 
 ## CH552T BOTTOM
 <img width="2866" height="1014" alt="simpleCH552T_14012024B" src="https://github.com/user-attachments/assets/3a23c3a2-9c2a-4898-90ee-0ee0b070ce34" />
+
+All the passive components are 0603 size. Resistor R1 and PWR LED used for power indicator.
