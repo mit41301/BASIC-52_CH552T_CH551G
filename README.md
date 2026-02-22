@@ -9,3 +9,5 @@ All the passive components are 0603 size. Resistor R1 and PWR LED used for power
 
 Resistor R2 (10k) used to pulled down the HW RESET line to LOW.
 IC U1 is CH552T and IC U51 can be CH551G or CH552G. We can also use CH554G which is over kill for this application.
+
+<img width="339" height="361" alt="image" src="https://github.com/user-attachments/assets/8ec11161-9483-496f-a628-b6228015b204" />
