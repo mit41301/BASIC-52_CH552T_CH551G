@@ -7,7 +7,4 @@ Atmel C51ASM V1.2 assembler used for assembling the Source Assembly File. CH552T
 
 All the passive components are 0603 size. Resistor R1 and PWR LED used for power indicator.  
 
-Resistor R2 (10k) used to pull down the HW RESET line to LOW.  
-IC U1 is CH552T and IC U51 can be CH551G or CH552G.  
-
-<img width="345" height="385" alt="image" src="https://github.com/user-attachments/assets/d9868eb2-2eea-45be-89c9-59229cc77ec9" />
+<img width="345" height="386" alt="image" src="https://github.com/user-attachments/assets/d6700b19-8fe1-4d50-8cec-f204c5a4cf57" />
