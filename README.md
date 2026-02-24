@@ -8,3 +8,6 @@ Atmel C51ASM V1.2 assembler used for assembling the Source Assembly File. CH552T
 All the passive components are 0603 size. Resistor R1 and PWR LED used for power indicator.  
 
 <img width="345" height="386" alt="image" src="https://github.com/user-attachments/assets/d6700b19-8fe1-4d50-8cec-f204c5a4cf57" />
+
+## CH552T DIP40 
+![DIP-40_BASIC-52](https://github.com/user-attachments/assets/3816bf71-71cf-491a-9a6b-3b5162dcfadb)
